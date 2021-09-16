@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1631574550 source:c:\users\danie\documents\curso ejemplos c\programacion ii\2021 c2 lunes\registrospoo1\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	"funciones.h"
+
+1631574550 c:\users\danie\documents\curso ejemplos c\programacion ii\2021 c2 lunes\registrospoo1\funciones.h
+
+1631747687 source:c:\users\feded\onedrive\documentos\codeblocks\programacion 2\registrospoo1\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	"funciones.h"
+
+1631747781 c:\users\feded\onedrive\documentos\codeblocks\programacion 2\registrospoo1\funciones.h
+	<cstring>
+
